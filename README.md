@@ -1,6 +1,6 @@
 # Hi! I'm Chowdhury Zawad Al Munawar<br>
 👩‍🎓 Studying Computer Science (CS) at BRAC University<br>
-🌱 Currently learning Database Systems, Artificial Intelligence, Node.js<br>
+🌱 Currently learning Machine Learning, Artificial Intelligence, Computer Architecture<br>
 👯 I’m looking to collaborate on Innovative tech projects<br>
 📫 How to reach me: Email: zawad.al.munawar@g.bracu.ac.bd<br>
 
